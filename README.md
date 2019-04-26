@@ -1,4 +1,4 @@
-# shapedetector
+# Shape Detector
 
-the shape detector help in detecting shapes of polygons on an image with different shapes
-#### https://www.pyimagesearch.com/2016/02/08/opencv-shape-detection/
+This project aims at detecting shapes of various polygons in an image with different shapes
+For reference check: https://bit.ly/2IOZIv8

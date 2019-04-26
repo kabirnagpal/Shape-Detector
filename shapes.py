@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 
 # load the image
-image = plt.imread('/home/jak/Desktop/open-cv/projects/shapedetection/geometric-shapes-polygons.jpg')      #always add complete path
+image = plt.imread('geometric-shapes-polygons.jpg')      #always add complete path
 image=cv2.cvtColor(image,cv2.COLOR_BGR2RGB)
 cv2.imshow("Actual Image", image)
 cv2.waitKey(0)

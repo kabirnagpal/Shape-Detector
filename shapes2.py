@@ -8,7 +8,7 @@ from pyimagesearch.shapedetector import ShapeDetector
 
 
 # load the image
-image = plt.imread('/home/jak/Desktop/open-cv/projects/shapedetection/s1.jpg')      #always add complete path
+image = plt.imread('s1.jpg')      #always add complete path
 cv2.imshow("Actual Image", image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
